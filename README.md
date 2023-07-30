@@ -24,3 +24,7 @@ Heap.counter를 Test.counter로 변경
 ### 128쪽 아래서 두번째 줄
 
 비효휼성을 비효율성으로 변경
+
+### 140쪽 코드 103 라인
+
+b'CircularLinkedList'를 'CircularLinkedList'로 변경
