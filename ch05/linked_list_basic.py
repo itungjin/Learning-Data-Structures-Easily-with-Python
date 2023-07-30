@@ -37,7 +37,7 @@ class LinkedListBasic:
         else:
             return None
 
-    def __find_node(self, x) -> tuple([ListNode, ListNode]):
+    def __find_node(self, x) -> tuple[ListNode, ListNode]:
         prev = self.__head
         curr = prev.next
         while curr != None:
