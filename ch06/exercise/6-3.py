@@ -1,10 +1,9 @@
-from ch06.linked_stack import LinkedStack
 import sys
 sys.path.append(
     '/Volumes/CT1000MX 500SSD1/Codes/Learning-Data-Structures-Easily-with-Python')
 sys.path.append(
     '/Volumes/CT1000MX 500SSD1/Codes/Learning-Data-Structures-Easily-with-Python/ch06')
-
+from ch06.linked_stack import LinkedStack
 
 def palindrome(string) -> bool:
     s = LinkedStack()
