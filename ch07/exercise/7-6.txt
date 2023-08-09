@@ -1,0 +1,1 @@
+enqueue(), dequeue() 모두 O(1)의 수행 시간을 갖는다.
